@@ -5,7 +5,7 @@ Students should use this [rubric](https://review.udacity.com/#!/projects/2696458
 
 For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
 
-
+=====================================================
 ## How to Install!
 Download this repo and run the index.html and you're good to go!
 
@@ -14,4 +14,7 @@ User the Arrow keys to move in the dirctions you want.
 Avoid the bugs!
 reach the water to win.
 _simple!_
+
+## Demo
+![Demo](https://github.com/NajlaKSA/Frogger-game-Udacity-FEND/tree/master/images/demo.gif)
 
